@@ -48,7 +48,7 @@ In this Project i learned more about states and how can i handle them, like how 
 
 ### Continued development
 
-I would like to fix some issues in this project later on, i'd like to see more about color transparency and what's the best way to handle them, i kept with the design, but there was some parts that i couldn't do exactly because of the color transparency.
+"I would like to fix some issues in this project later on. I'd like to learn more about color transparency and the best ways to handle it. I kept with the design, but there were some parts that I couldn't execute exactly due to the color transparency."
 
 ## Author
 
